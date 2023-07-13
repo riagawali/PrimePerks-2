@@ -1,0 +1,10 @@
+[
+  {
+    "userId": "<user-id-1>",
+    "planId": "<subscription-plan-id-1>"
+  },
+  {
+    "userId": "<user-id-2>",
+    "planId": "<subscription-plan-id-2>"
+  }
+]

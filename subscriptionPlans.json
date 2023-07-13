@@ -1,0 +1,503 @@
+[
+  {
+    "name": "Hotstar",
+    "description": "Description for Hotstar",
+    "price": 49,
+    "duration": "1 month",
+    "products": [
+      {
+        "name": "Hotstar",
+        "description": "Description for Hotstar",
+        "price": 49,
+        "duration": "1 month"
+      }
+    ]
+  },
+  {
+    "name": "Hotstar",
+    "description": "Description for Hotstar",
+    "price": 99,
+    "duration": "3 months",
+    "products": [
+      {
+        "name": "Hotstar",
+        "description": "Description for Hotstar",
+        "price": 99,
+        "duration": "3 months"
+      }
+    ]
+  },
+  {
+    "name": "Hotstar",
+    "description": "Description for Hotstar",
+    "price": 149,
+    "duration": "6 months",
+    "products": [
+      {
+        "name": "Hotstar",
+        "description": "Description for Hotstar",
+        "price": 149,
+        "duration": "6 months"
+      }
+    ]
+  },
+  {
+    "name": "Hotstar",
+    "description": "Description for Hotstar",
+    "price": 299,
+    "duration": "12 months",
+    "products": [
+      {
+        "name": "Hotstar",
+        "description": "Description for Hotstar",
+        "price": 299,
+        "duration": "12 months"
+      }
+    ]
+  },
+  {
+    "name": "Amazon Prime",
+    "description": "Description for Amazon Prime",
+    "price": 199,
+    "duration": "1 month",
+    "products": [
+      {
+        "name": "Amazon Prime",
+        "description": "Get access to Amazon Prime",
+        "price": 199,
+        "duration": "1 month"
+      }
+    ]
+  },
+  {
+    "name": "Amazon Prime",
+    "description": "Description for Amazon Prime",
+    "price": 599,
+    "duration": "3 months",
+    "products": [
+      {
+        "name": "Amazon Prime",
+        "description": "Get access to Amazon Prime",
+        "price": 599,
+        "duration": "3 months"
+      }
+    ]
+  },
+  {
+    "name": "Amazon Prime",
+    "description": "Description for Amazon Prime",
+    "price": 1799,
+    "duration": "6 months",
+    "products": [
+      {
+        "name": "Amazon Prime",
+        "description": "Get access to Amazon Prime",
+        "price": 1799,
+        "duration": "6 months"
+      }
+    ]
+  },
+  {
+    "name": "Amazon Prime",
+    "description": "Description for Amazon Prime",
+    "price": 3599,
+    "duration": "12 months",
+    "products": [
+      {
+        "name": "Amazon Prime",
+        "description": "Get access to Amazon Prime",
+        "price": 3599,
+        "duration": "12 months"
+      }
+    ]
+  },
+  {
+    "name": "Netflix",
+    "description": "Description for Netflix",
+    "price": 299,
+    "duration": "1 month",
+    "products": [
+      {
+        "name": "Netflix",
+        "description": "Get access to Netflix",
+        "price": 299,
+        "duration": "1 month"
+      }
+    ]
+  },
+  {
+    "name": "Netflix",
+    "description": "Description for Netflix",
+    "price": 899,
+    "duration": "3 months",
+    "products": [
+      {
+        "name": "Netflix",
+        "description": "Get access to Netflix",
+        "price": 899,
+        "duration": "3 months"
+      }
+    ]
+  },
+  {
+    "name": "Netflix",
+    "description": "Description for Netflix",
+    "price": 1799,
+    "duration": "6 months",
+    "products": [
+      {
+        "name": "Netflix",
+        "description": "Get access to Netflix",
+        "price": 1799,
+        "duration": "6 months"
+      }
+    ]
+  },
+  {
+    "name": "Netflix",
+    "description": "Description for Netflix",
+    "price": 3599,
+    "duration": "12 months",
+    "products": [
+      {
+        "name": "Netflix",
+        "description": "Get access to Netflix",
+        "price": 3599,
+        "duration": "12 months"
+      }
+    ]
+  },
+  {
+    "name": "Sonyliv",
+    "description": "Description for Sonyliv",
+    "price": 129,
+    "duration": "1 month",
+    "products": [
+      {
+        "name": "Sonyliv",
+        "description": "Get access to Sonyliv",
+        "price": 129,
+        "duration": "1 month"
+      }
+    ]
+  },
+  {
+    "name": "Sonyliv",
+    "description": "Description for Sonyliv",
+    "price": 389,
+    "duration": "3 months",
+    "products": [
+      {
+        "name": "Sonyliv",
+        "description": "Get access to Sonyliv",
+        "price": 389,
+        "duration": "3 months"
+      }
+    ]
+  },
+  {
+    "name": "Sonyliv",
+    "description": "Description for Sonyliv",
+    "price": 779,
+    "duration": "6 months",
+    "products": [
+      {
+        "name": "Sonyliv",
+        "description": "Get access to Sonyliv",
+        "price": 779,
+        "duration": "6 months"
+      }
+    ]
+  },
+  {
+    "name": "Sonyliv",
+    "description": "Description for Sonyliv",
+    "price": 1559,
+    "duration": "12 months",
+    "products": [
+      {
+        "name": "Sonyliv",
+        "description": "Get access to Sonyliv",
+        "price": 1559,
+        "duration": "12 months"
+      }
+    ]
+  },
+  {
+    "name": "ZeeTV",
+    "description": "Description for ZeeTV",
+    "price": 99,
+    "duration": "1 month",
+    "products": [
+      {
+        "name": "ZeeTV",
+        "description": "Get access to ZeeTV",
+        "price": 79,
+        "duration": "1 month"
+      }
+    ]
+  },
+  {
+    "name": "ZeeTV",
+    "description": "Description for ZeeTV",
+    "price": 299,
+    "duration": "3 months",
+    "products": [
+      {
+        "name": "ZeeTV",
+        "description": "Get access to ZeeTV",
+        "price": 299,
+        "duration": "3 months"
+      }
+    ]
+  },
+  {
+    "name": "ZeeTV",
+    "description": "Description for ZeeTV",
+    "price": 599,
+    "duration": "6 months",
+    "products": [
+      {
+        "name": "ZeeTV",
+        "description": "Get access to ZeeTV",
+        "price": 599,
+        "duration": "6 months"
+      }
+    ]
+  },
+  {
+    "name": "ZeeTV",
+    "description": "Description for ZeeTV",
+    "price": 1199,
+    "duration": "12 months",
+    "products": [
+      {
+        "name": "ZeeTV",
+        "description": "Get access to ZeeTV",
+        "price": 1199,
+        "duration": "12 months"
+      }
+    ]
+  },
+  {
+    "name": "JioCinema",
+    "description": "Description for JioCinema",
+    "price": 79,
+    "duration": "1 month",
+    "products": [
+      {
+        "name": "JioCinema",
+        "description": "Description for JioCinema",
+        "price": 79,
+        "duration": "1 month"
+      }
+    ]
+  },
+  {
+    "name": "JioCinema",
+    "description": "Description for JioCinema",
+    "price": 239,
+    "duration": "3 months",
+    "products": [
+      {
+        "name": "JioCinema",
+        "description": "Description for JioCinema",
+        "price": 239,
+        "duration": "3 months"
+      }
+    ]
+  },
+  {
+    "name": "JioCinema",
+    "description": "Description for JioCinema",
+    "price": 479,
+    "duration": "6 months",
+    "products": [
+      {
+        "name": "JioCinema",
+        "description": "Description for JioCinema",
+        "price": 479,
+        "duration": "6 months"
+      }
+    ]
+  },
+  {
+    "name": "JioCinema",
+    "description": "Description for JioCinema",
+    "price": 959,
+    "duration": "12 months",
+    "products": [
+      {
+        "name": "JioCinema",
+        "description": "Description for JioCinema",
+        "price": 959,
+        "duration": "12 months"
+      }
+    ]
+  },
+
+  {
+    "name": "Basic Package 1",
+    "description": "Get access to Hotstar, Amazon Prime",
+    "price": 199,
+    "duration": "1 month",
+    "products": [
+      {
+        "name": "Hotstar",
+        "description": "Description for Hotstar",
+        "price": 49,
+        "duration": "1 month"
+      },
+      {
+        "name": "Amazon Prime",
+        "description": "Get access to Amazon Prime",
+        "price": 199,
+        "duration": "1 month"
+      }
+    ]
+  },
+  {
+    "name": "Basic Package 2",
+    "description": "Get access to Amazon Prime, Netflix",
+    "price": 299,
+    "duration": "1 month",
+    "products": [
+      {
+        "name": "Amazon Prime",
+        "description": "Get access to Amazon Prime",
+        "price": 199,
+        "duration": "1 month"
+      },
+      {
+        "name": "Netflix",
+        "description": "Get access to Netflix",
+        "price": 299,
+        "duration": "1 month"
+      }
+    ]
+  },
+  {
+    "name": "Basic Package 3",
+    "description": "Get access to Netflix, Sonyliv",
+    "price": 299,
+    "duration": "1 month",
+    "products": [
+      {
+        "name": "Netflix",
+        "description": "Get access to Netflix",
+        "price": 299,
+        "duration": "1 month"
+      },
+      {
+        "name": "Sonyliv",
+        "description": "Get access to Sonyliv",
+        "price": 129,
+        "duration": "1 month"
+      }
+    ]
+  },
+
+  {
+    "name": "Basic Package 4",
+    "description": "Get access to Sonyliv, ZeeTV",
+    "price": 159,
+    "duration": "1 month",
+    "products": [
+      {
+        "name": "Sonyliv",
+        "description": "Get access to Sonyliv",
+        "price": 129,
+        "duration": "1 month"
+      },
+      {
+        "name": "ZeeTV",
+        "description": "Get access to ZeeTV",
+        "price": 79,
+        "duration": "1 month"
+      }
+    ]
+  },
+
+  {
+    "name": "Entertainment Package",
+    "description": "Get access to Hotstar, Amazon Prime, Netflix, Sonyliv, and ZeeTV",
+    "price": 599,
+    "duration": "1 month",
+    "products": [
+      {
+        "name": "Hotstar",
+        "description": "Description for Hotstar",
+        "price": 49,
+        "duration": "1 month"
+      },
+      {
+        "name": "Amazon Prime",
+        "description": "Get access to Amazon Prime",
+        "price": 199,
+        "duration": "1 month"
+      },
+      {
+        "name": "Netflix",
+        "description": "Get access to Netflix",
+        "price": 299,
+        "duration": "1 month"
+      },
+      {
+        "name": "Sonyliv",
+        "description": "Get access to Sonyliv",
+        "price": 129,
+        "duration": "1 month"
+      },
+      {
+        "name": "ZeeTV",
+        "description": "Get access to ZeeTV",
+        "price": 79,
+        "duration": "1 month"
+      }
+    ]
+  },
+  {
+    "name": "Premium Package",
+    "description": "Get access to all streaming platforms",
+    "price": 799,
+    "duration": "1 month",
+    "products": [
+      {
+        "name": "Hotstar",
+        "description": "Description for Hotstar",
+        "price": 49,
+        "duration": "1 month"
+      },
+      {
+        "name": "Amazon Prime",
+        "description": "Get access to Amazon Prime",
+        "price": 199,
+        "duration": "1 month"
+      },
+      {
+        "name": "Netflix",
+        "description": "Get access to Netflix",
+        "price": 299,
+        "duration": "1 month"
+      },
+      {
+        "name": "Sonyliv",
+        "description": "Get access to Sonyliv",
+        "price": 129,
+        "duration": "1 month"
+      },
+      {
+        "name": "ZeeTV",
+        "description": "Get access to ZeeTV",
+        "price": 79,
+        "duration": "1 month"
+      },
+      {
+        "name": "JioCinema",
+        "description": "Description for JioCinema",
+        "price": 79,
+        "duration": "1 month"
+      }
+    ]
+  }
+]

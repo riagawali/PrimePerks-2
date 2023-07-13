@@ -1,0 +1,122 @@
+[
+  {
+    "name": "Hotstar",
+    "description": "Description for Hotstar",
+    "price": 49,
+    "duration": "1 month"
+  },
+  {
+    "name": "Hotstar",
+    "description": "Description for Hotstar",
+    "price": 99,
+    "duration": "3 months"
+  },
+  {
+    "name": "Hotstar",
+    "description": "Description for Hotstar",
+    "price": 149,
+    "duration": "6 months"
+  },
+  {
+    "name": "Hotstar",
+    "description": "Description for Hotstar",
+    "price": 299,
+    "duration": "12 months"
+  },
+  {
+    "name": "Amazon Prime",
+    "description": "Description for Amazon Prime",
+    "price": 199,
+    "duration": "1 month"
+  },
+  {
+    "name": "Amazon Prime",
+    "description": "Description for Amazon Prime",
+    "price": 599,
+    "duration": "3 months"
+  },
+  {
+    "name": "Amazon Prime",
+    "description": "Description for Amazon Prime",
+    "price": 1799,
+    "duration": "6 months"
+  },
+  {
+    "name": "Amazon Prime",
+    "description": "Description for Amazon Prime",
+    "price": 3599,
+    "duration": "12 months"
+  },
+  {
+    "name": "Netflix",
+    "description": "Description for Netflix",
+    "price": 299,
+    "duration": "1 month"
+  },
+  {
+    "name": "Netflix",
+    "description": "Description for Netflix",
+    "price": 899,
+    "duration": "3 months"
+  },
+  {
+    "name": "Netflix",
+    "description": "Description for Netflix",
+    "price": 1799,
+    "duration": "6 months"
+  },
+  {
+    "name": "Netflix",
+    "description": "Description for Netflix",
+    "price": 3599,
+    "duration": "12 months"
+  },
+  {
+    "name": "Sonyliv",
+    "description": "Description for Sonyliv",
+    "price": 129,
+    "duration": "1 month"
+  },
+  {
+    "name": "Sonyliv",
+    "description": "Description for Sonyliv",
+    "price": 389,
+    "duration": "3 months"
+  },
+  {
+    "name": "Sonyliv",
+    "description": "Description for Sonyliv",
+    "price": 779,
+    "duration": "6 months"
+  },
+  {
+    "name": "Sonyliv",
+    "description": "Description for Sonyliv",
+    "price": 1559,
+    "duration": "12 months"
+  },
+  {
+    "name": "ZeeTV",
+    "description": "Description for ZeeTV",
+    "price": 99,
+    "duration": "1 month"
+  },
+  {
+    "name": "ZeeTV",
+    "description": "Description for ZeeTV",
+    "price": 299,
+    "duration": "3 months"
+  },
+  {
+    "name": "ZeeTV",
+    "description": "Description for ZeeTV",
+    "price": 599,
+    "duration": "6 months"
+  },
+  {
+    "name": "ZeeTV",
+    "description": "Description for ZeeTV",
+    "price": 1199,
+    "duration": "12 months"
+  }
+]
