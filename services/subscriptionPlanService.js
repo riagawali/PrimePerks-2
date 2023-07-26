@@ -2,7 +2,9 @@ const SubscriptionPlan = require("../model/SubscriptionPlan");
 
 const getSubscriptionPlans = async () => {
   try {
-    const subscriptionPlans = await SubscriptionPlan.find();
+    const subscriptionPlans = await SubscriptionPlan.find().populate(
+      'products'
+    );
     return subscriptionPlans;
   } catch (error) {
     throw new Error("Failed to fetch subscription plans");
